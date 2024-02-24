@@ -1,3 +1,3 @@
-# first
+# WanderLust
 Demo.
 yashveer
